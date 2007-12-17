@@ -9,7 +9,6 @@ Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
 Source0:	%{real_name}-%{version}.tar.bz2
 BuildRequires:	perl-devel, perl-Image-Size
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 TagReader is a perl extension module which allows you to read html/xml
