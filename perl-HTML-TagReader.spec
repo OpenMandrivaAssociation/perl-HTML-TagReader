@@ -8,7 +8,7 @@ Release:	5
 Summary:	HTML-TagReader module for perl 
 License:	GPL+ or Artistic
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{upstream_name}
+URL:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:  perl(Image::Size)
